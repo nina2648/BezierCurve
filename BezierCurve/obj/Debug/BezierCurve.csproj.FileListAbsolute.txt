@@ -1,0 +1,9 @@
+E:\課業\BezierCurve\BezierCurve\bin\Debug\BezierCurve.exe.config
+E:\課業\BezierCurve\BezierCurve\bin\Debug\BezierCurve.exe
+E:\課業\BezierCurve\BezierCurve\bin\Debug\BezierCurve.pdb
+E:\課業\BezierCurve\BezierCurve\obj\Debug\BezierCurve.csprojResolveAssemblyReference.cache
+E:\課業\BezierCurve\BezierCurve\obj\Debug\BezierCurve.Form1.resources
+E:\課業\BezierCurve\BezierCurve\obj\Debug\BezierCurve.Properties.Resources.resources
+E:\課業\BezierCurve\BezierCurve\obj\Debug\BezierCurve.csproj.GenerateResource.Cache
+E:\課業\BezierCurve\BezierCurve\obj\Debug\BezierCurve.exe
+E:\課業\BezierCurve\BezierCurve\obj\Debug\BezierCurve.pdb
